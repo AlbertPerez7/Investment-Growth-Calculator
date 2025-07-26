@@ -1,0 +1,134 @@
+
+Year 1:
+- Year: 1
+- Starting Total: 10000.0
+- Dividends: 100.0
+- Dividends Reinvested: True
+- After Growth: 11009.0
+- Fees: 55.05
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 10953.95
+- After Contribution: 12953.95
+- Cumulative Fees Paid: 55.05
+
+Year 2:
+- Year: 2
+- Starting Total: 12953.95
+- Dividends: 129.54
+- Dividends Reinvested: True
+- After Growth: 14261.01
+- Fees: 71.31
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 14189.7
+- After Contribution: 16189.7
+- Cumulative Fees Paid: 126.35
+
+Year 3:
+- Year: 3
+- Starting Total: 16189.7
+- Dividends: 161.9
+- Dividends Reinvested: True
+- After Growth: 17823.25
+- Fees: 89.12
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 17734.13
+- After Contribution: 19734.13
+- Cumulative Fees Paid: 215.47
+
+Year 4:
+- Year: 4
+- Starting Total: 19734.13
+- Dividends: 197.34
+- Dividends Reinvested: True
+- After Growth: 21725.3
+- Fees: 108.63
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 21616.68
+- After Contribution: 23616.68
+- Cumulative Fees Paid: 324.09
+
+Year 5:
+- Year: 5
+- Starting Total: 23616.68
+- Dividends: 236.17
+- Dividends Reinvested: True
+- After Growth: 25999.6
+- Fees: 130.0
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 25869.6
+- After Contribution: 27869.6
+- Cumulative Fees Paid: 454.09
+
+Year 6:
+- Year: 6
+- Starting Total: 27869.6
+- Dividends: 278.7
+- Dividends Reinvested: True
+- After Growth: 30681.64
+- Fees: 153.41
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 30528.24
+- After Contribution: 32528.24
+- Cumulative Fees Paid: 607.5
+
+Year 7:
+- Year: 7
+- Starting Total: 32528.24
+- Dividends: 325.28
+- Dividends Reinvested: True
+- After Growth: 35810.33
+- Fees: 179.05
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 35631.28
+- After Contribution: 37631.28
+- Cumulative Fees Paid: 786.55
+
+Year 8:
+- Year: 8
+- Starting Total: 37631.28
+- Dividends: 376.31
+- Dividends Reinvested: True
+- After Growth: 41428.28
+- Fees: 207.14
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 41221.14
+- After Contribution: 43221.14
+- Cumulative Fees Paid: 993.69
+
+Year 9:
+- Year: 9
+- Starting Total: 43221.14
+- Dividends: 432.21
+- Dividends Reinvested: True
+- After Growth: 47582.15
+- Fees: 237.91
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 47344.24
+- After Contribution: 49344.24
+- Cumulative Fees Paid: 1231.6
+
+Year 10:
+- Year: 10
+- Starting Total: 49344.24
+- Dividends: 493.44
+- Dividends Reinvested: True
+- After Growth: 54323.07
+- Fees: 271.62
+- Spread: 0
+- Broker Fee: 0
+- After Fees: 54051.46
+- After Contribution: 56051.46
+- Cumulative Fees Paid: 1503.22
+
+💰 Total contributed: 30000.00
+📈 Total value after 10 years: 56051.46
+🟢 Net profit before taxes: 26051.46
