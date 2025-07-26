@@ -4,9 +4,9 @@ This is a simple Python project that simulates the growth over time of an invest
 
 - Investment type: ETF/Fund, individual stock, or derivative
 - Initial capital and yearly contributions
-- Expected return and dividend yield
+- Expected average compound return 
 - Fees (expense ratio, broker fees, spread)
-- Dividend reinvestment options
+- Dividend yield and dividend reinvestment options
 
 It produces a detailed breakdown of the investment's evolution year by year and plots the total investment contribution vs. the simulated investment value.
 
