@@ -11,7 +11,6 @@ This is a simple Python project that simulates the growth over time of an invest
 It produces a detailed breakdown of the investment's evolution year by year and plots the total investment contribution vs. the simulated investment value.
 
 ---
-git config user.email "albertperez2004@gmail.com"
 
 ##  About the Project
 
