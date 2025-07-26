@@ -1,3 +1,4 @@
+
 import sys
 import io
 from Investment.inputs import get_user_inputs
@@ -33,14 +34,14 @@ def main():
         sys.stdout = sys.__stdout__
         print(buffer.getvalue())
 
-        # Offer to save results before GUI plot blocks terminal
+        # Offer to save results
         save = input("\n📥 Do you want to save all results as shown to a TXT file? (y/n): ").lower()
         if save in ('y', 'yes'):
             filename = input("Enter filename (e.g., results.txt): ").strip()
             if not filename.lower().endswith(".txt"):
                 filename += ".txt"
             save_detailed_results_to_txt(buffer.getvalue(), filename)
-            print(f" Results saved to '{filename}'")
+            print(f"✅ Results saved to '{filename}'")
 
         # Display investment growth plot
         plot_investment(contributions, values)
