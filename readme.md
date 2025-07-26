@@ -30,8 +30,8 @@ This is one of my first projects where I applied programming to personal investm
 1. **Clone the repository:**
 
 ```bash
-git clone 
-cd investment-simulator
+git clone https://github.com/AlbertPerez7/Investment-Growth-Calculator.git
+cd Investment-Growth-Calculator
 ```
 
 2. **Install dependencies:**
