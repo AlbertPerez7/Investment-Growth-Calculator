@@ -30,7 +30,7 @@ This is one of my first projects where I applied programming to personal investm
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/investment-simulator.git
+git clone 
 cd investment-simulator
 ```
 
