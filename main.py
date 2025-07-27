@@ -33,7 +33,6 @@ def main():
         sys.stdout = sys.__stdout__
         print(buffer.getvalue())
 
-        # Keep asking until the user enters a valid response
         while True:
             save = input("\n📥 Do you want to save all results as shown to a TXT file? (y/n): ").lower().strip()
             if save in ('y', 'yes'):

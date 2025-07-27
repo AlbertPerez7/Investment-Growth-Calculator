@@ -13,11 +13,11 @@ def plot_investment(contribution, value):
 
     plt.figure(figsize=(10, 6))
     plt.plot(years, value, label="Investment Value")
-    plt.plot(years, contribution, label="Total Contribution", linestyle='--')
+    plt.plot(years, contribution, label="Total Invested", linestyle='--')
 
     plt.xlabel("Year")
     plt.ylabel("Amount (Thousands of EUR)")
-    plt.title("Investment Growth vs Contributions")
+    plt.title("Investment Growth vs Total Invested")
     plt.legend()
     plt.grid(True)
 
